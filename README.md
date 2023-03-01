@@ -27,7 +27,8 @@ Please visit the following link to use the application:
 Licensed under the MIT License - see the [LICENSE.md](https://github.com/AnitaBanh/PWA-Text-Editor/blob/main/LICENSE) file for details.
 
 ## Contributing
-Tutor Dominique Meeks Gombe
+Starter code from https://github.com/coding-boot-camp/cautious-meme and https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-12-2022-U-LOLC/tree/main/19-PWA
+Guidance and review from Dominique Meeks Gombe, Myeonghun Jeong, Joshua Goeke.
 
 ## Tests
 None
