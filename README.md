@@ -4,6 +4,8 @@
 
 ## Description
 Progressive Web Applications (PWA) text editor that runs in the browser and will also function offline. 
+![image](https://user-images.githubusercontent.com/120350675/222051767-07183c70-d353-4f9f-8805-5914692297c4.png)
+
  
 ## Table of Contents 
 
