@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-Progressive Web Applications (PWA) text editor that runs in the browser and will also function offline. 
+This is Just Another Text Editor. This Progressive Web Application (PWA) text editor that runs in the Chrome browser and will also function offline. 
 ![image](https://user-images.githubusercontent.com/120350675/222051767-07183c70-d353-4f9f-8805-5914692297c4.png)
 
  
@@ -20,8 +20,7 @@ Progressive Web Applications (PWA) text editor that runs in the browser and will
 The app is deployed on Heroku. At the top of the application, an install button provides the option to install the application to the user's desktop.
 
 ## Usage
-Please visit the link below to use the application: 
-
+Please visit the following link to use the application: 
    https://janothertexteditor.herokuapp.com/
 
 ## License
