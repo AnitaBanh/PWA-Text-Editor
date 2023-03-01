@@ -21,6 +21,7 @@ The app is deployed on Heroku. At the top of the application, an install button 
 
 ## Usage
 Please visit the link below to use the application: 
+
    https://janothertexteditor.herokuapp.com/
 
 ## License
